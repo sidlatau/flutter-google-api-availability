@@ -1,3 +1,7 @@
+## 1.1.0
+
+* Updated Kotlin and Gradle versions.
+
 ## 1.0.4
 
 * Update used Kotlin and Gradle versions.
