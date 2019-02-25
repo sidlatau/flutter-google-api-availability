@@ -1,3 +1,7 @@
+ ## 2.0.0
+ 
+ * Migrated to AndroidX.
+ 
 ## 1.1.0
 
 * Updated Kotlin and Gradle versions.
